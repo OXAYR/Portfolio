@@ -1,0 +1,69 @@
+* {
+    background-color: #00050f;
+    overflow: hidden;
+   
+}
+
+.App{
+    color: white;
+    text-align: center;
+    background-color: #010c22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 33rem ;
+    border: #000000;
+    box-shadow: #000000 1rem;
+    border-radius: 20px;
+}
+
+.Content{
+    text-align: start;
+    margin: 0rem 1rem;
+}
+
+.About p{
+    font-size: 14px;
+}
+
+.Interest {
+    font-size: 14px;
+}
+
+.Information{
+    border: #0e43ad solid;
+    border-radius: 20px;
+    margin: 1rem;
+}
+
+.Footer li{
+    list-style-type: none;
+    color:#034bdb;
+}
+
+.Footer ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Footer {
+    padding: 0rem 2rem 0rem 0rem;
+    margin: 4px 0px 4px 0px;
+}
+
+.Footer a{
+    text-decoration: none;
+}
+
+.dp{
+    width: 10rem;
+    box-shadow: #000000;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.UpperContent h4{
+    color: chocolate;
+    font-size: medium;
+}
